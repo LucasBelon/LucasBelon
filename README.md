@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning C and Python
-- 🌱 Atualmente estou aprendendo C and Python
+- 🌱 I’m currently learning C++
+- 🌱 Atualmente estou aprendendo C++
 - ⚡ Fun fact: I love music, I play guitar
 - ⚡ Curiosidade: Eu amo música, toco violão
 
